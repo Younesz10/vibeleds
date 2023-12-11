@@ -1,0 +1,13 @@
+.home {
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 100vh;
+  max-height: auto;
+  z-index: 1;
+  background-size: cover; /* Change to "cover" */
+  background-image: linear-gradient(to top, rgb(79, 0, 206) 0%, #ffffff 100%);
+}
